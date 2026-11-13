@@ -4,7 +4,7 @@
 
 # --- 必填 ---
 BETTER_AUTH_SECRET=08a9b2fd77c5b282e38e71ccc51ab7f672f85ff1d306923afa12fcc040abcc99
-BETTER_AUTH_URL=http://blog.qihooo.us.ci
+BETTER_AUTH_URL=https://blog.qihooo.us.ci
 GITHUB_CLIENT_ID=Ov23ctJgXSvRRcn2qI47
 GITHUB_CLIENT_SECRET=278a909bc02516e82e3999320bb584170c9b711c
 DOMAIN=blog.qihooo.us.ci
